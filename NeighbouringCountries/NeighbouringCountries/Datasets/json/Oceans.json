@@ -1,0 +1,8 @@
+
+{
+    "pacific": ["Australia","Brunei","Cambodia","Canada","Chile","China","Colombia","Costa Rica","Ecuador","El Salvador","Federated States of Micronesia","Fiji","Guatemala","Honduras","Indonesia","Japan","Kiribati","Malaysia","Marshall Islands","Mexico","Nauru","New Zealand","Nicaragua","North Korea","Palau","Panama","Papua New Guinea","Peru","Philippines","Russia","Samoa","Singapore","Solomon Islands","South Korea","Taiwan","Thailand","Timor-Leste","Tonga","Tuvalu","United States","Vanuatu","Vietnam"],
+    "indian":["Australia","Bahrain","Bangladesh","Comoros","Djibouti","Egypt","Eritrea","France","India","Indonesia","Iran","Iraq","Israel","Jordan","Kenya","Kuwait","Madagascar","Malaysia","Maldives","Mauritius","Mozambique","Myanmar","Oman","Pakistan","Qatar","Saudi Arabia","Seychelles","Singapore","Somalia","South Africa","Sri Lanka","Sudan","Tanzania","Thailand","Timor-Leste","United Arab Emirates","United Kingdom","Yemen"],
+    "arctic" : ["Canada"," Greenland"," Iceland"," Norway"," Sweden"," Finland"," Russia","United States"],
+    "atlantic" :["Albania","Azore","Belgium","Bosnia and Herzegovina","Bulgaria","Croatia","Cyprus","Denmark","Estonia","Finland","Faro Island","France","Georgia","Germany","Gibralta","Greece","Guernse","Iceland","Ireland","Italy","Jersey","Latvia","Lithuania","Malta","Monaco","Montenegro","Netherlands","Norther","Norway","Poland","Portugal","Romania","Russia","Slovenia","Spain","Sweden","Turkey","Ukraine","United Kingdom","Africa"],
+    "antarctic" : ["South Africa","Australia","New Zealand","Chile","Argentina"]
+}
